@@ -1,1 +1,1 @@
-# DataStructures&AlgorithmsCourse
+# DataStructures&Algorithms Project

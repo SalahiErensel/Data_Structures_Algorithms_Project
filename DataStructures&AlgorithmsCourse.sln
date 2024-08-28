@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueAlgorithm", "QueueAlgo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueuesAlgorithm", "PriorityQueuesAlgorithm\PriorityQueuesAlgorithm.csproj", "{52E3FC55-E7AB-4217-9ABD-52CF54442BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{C0E1ABD4-7E61-473A-83D3-D0634652BFF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{C0E1ABD4-7E61-473A-83D3-D0634652BFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrays", "DynamicArrays\DynamicArrays.csproj", "{04E5635B-78A8-4851-B02E-D20087287E6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C0E1ABD4-7E61-473A-83D3-D0634652BFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E1ABD4-7E61-473A-83D3-D0634652BFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E1ABD4-7E61-473A-83D3-D0634652BFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E5635B-78A8-4851-B02E-D20087287E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E5635B-78A8-4851-B02E-D20087287E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E5635B-78A8-4851-B02E-D20087287E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E5635B-78A8-4851-B02E-D20087287E6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

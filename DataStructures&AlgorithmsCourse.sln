@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrays", "DynamicArrays\DynamicArrays.csproj", "{04E5635B-78A8-4851-B02E-D20087287E6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists&ArrayLists", "LinkedLists&ArrayLists\LinkedLists&ArrayLists.csproj", "{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{04E5635B-78A8-4851-B02E-D20087287E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E5635B-78A8-4851-B02E-D20087287E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E5635B-78A8-4851-B02E-D20087287E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

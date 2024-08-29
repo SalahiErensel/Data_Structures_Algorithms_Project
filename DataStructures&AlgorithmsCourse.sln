@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueuesAlgorithm", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{C0E1ABD4-7E61-473A-83D3-D0634652BFF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArrays", "DynamicArrays\DynamicArrays.csproj", "{04E5635B-78A8-4851-B02E-D20087287E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicArrays", "DynamicArrays\DynamicArrays.csproj", "{04E5635B-78A8-4851-B02E-D20087287E6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists&ArrayLists", "LinkedLists&ArrayLists\LinkedLists&ArrayLists.csproj", "{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists&ArrayLists", "LinkedLists&ArrayLists\LinkedLists&ArrayLists.csproj", "{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearchAlgorithm", "LinearSearchAlgorithm\LinearSearchAlgorithm.csproj", "{BA11AE19-22EA-4CF3-8BCF-FB007D0CB9CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC7E0F5-671B-4A00-B888-4EEC0C75FE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA11AE19-22EA-4CF3-8BCF-FB007D0CB9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA11AE19-22EA-4CF3-8BCF-FB007D0CB9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA11AE19-22EA-4CF3-8BCF-FB007D0CB9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA11AE19-22EA-4CF3-8BCF-FB007D0CB9CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationSearch", "Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortAlgorithm", "BubbleSortAlgorithm\BubbleSortAlgorithm.csproj", "{071143F6-970C-4264-9CA1-2BAD8C4061DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSortAlgorithm", "SelectionSortAlgorithm\SelectionSortAlgorithm.csproj", "{2DD3791E-3DD8-44E0-9CA6-1E27A43574A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortAlgorithm", "InsertionSortAlgorithm\InsertionSortAlgorithm.csproj", "{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{071143F6-970C-4264-9CA1-2BAD8C4061DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{071143F6-970C-4264-9CA1-2BAD8C4061DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{071143F6-970C-4264-9CA1-2BAD8C4061DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD3791E-3DD8-44E0-9CA6-1E27A43574A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD3791E-3DD8-44E0-9CA6-1E27A43574A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD3791E-3DD8-44E0-9CA6-1E27A43574A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD3791E-3DD8-44E0-9CA6-1E27A43574A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

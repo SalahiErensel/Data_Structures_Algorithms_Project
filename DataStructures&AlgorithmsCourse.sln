@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSortAlgorithm", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortAlgorithm", "InsertionSortAlgorithm\InsertionSortAlgorithm.csproj", "{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{1F47F5EF-AADB-46B2-BC0E-1DC073F903F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C66AFF6-5250-4E8C-ABC1-36AAD3BD5BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F47F5EF-AADB-46B2-BC0E-1DC073F903F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F47F5EF-AADB-46B2-BC0E-1DC073F903F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F47F5EF-AADB-46B2-BC0E-1DC073F903F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F47F5EF-AADB-46B2-BC0E-1DC073F903F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
